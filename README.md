@@ -1,1 +1,1 @@
-# holbertonschool-shell
+this repo contains different shel scripts
