@@ -1,1 +1,1 @@
-this repo contains different shel scripts
+My first shell
